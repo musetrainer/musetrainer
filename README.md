@@ -5,7 +5,7 @@
 ## Application
 
 - [Play for FREE online][0]
-- [Buy on App Store][3]
+- [Get FREE app on App Store][3]
 
 ## Support
 
