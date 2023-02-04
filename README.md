@@ -1,6 +1,6 @@
 # MuseTrainer
 
-> MusicXML Piano Trainer using MIDI devices
+> MusicXML Piano Trainer app for iPad and the Web
 
 ## Applications
 
